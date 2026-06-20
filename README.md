@@ -1,2 +1,14 @@
 # cnwin-worldcup-resource
-HTML page archive and documentation
+
+独立 HTML 页面集合
+
+页面发布任务会把结果保存到此仓库，方便统一管理。
+
+## 结构说明
+
+- 根目录用于存放发布页面
+- 仓库说明用于辅助识别用途
+
+## 内容说明
+
+仓库中的 HTML 文件为主要内容，README 仅保留简要说明。
